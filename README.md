@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Full stack development**
 
-- 👨‍💻 All of my projects are available at [http://danmera.com](http://danmera.com)
+- 👨‍💻 All of my projects are available at [http://jadtechlabs.com](http://jadtechlabs.com)
 
 - 💬 Ask me about **react, node**
 
-- 📫 How to reach me **danmera1980@gmail.com**
+- 📫 How to reach me **danmera80@gmail.com**
 
-- 📄 Know about my experiences [http://danmera.com](http://danmera.com)
+- 📄 Know about my experiences [http://jadtechlabs.com](http://jadtechlabs.com)
 
 - ⚡ Fun fact **I love anime and ethical hacking**
 
